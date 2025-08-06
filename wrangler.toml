@@ -1,0 +1,5 @@
+name = "miss-http"              # Worker 名称
+main = "main.js"                 # 入口文件
+compatibility_date = "2025-08-06"  # 今天日期
+
+# 不需要 assets，因为我们只是反代 JS
